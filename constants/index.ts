@@ -128,7 +128,7 @@ Follow the structured question flow:
 {{questions}}
 
 Engage naturally & react appropriately:
-Listen actively to responses and acknowledge them before moving forward.
+Listen actively to responses and move forward.
 Ask brief follow-up questions if a response is vague or requires more detail.
 Keep the conversation flowing smoothly while maintaining control.
 Be professional, yet warm and welcoming:
